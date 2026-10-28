@@ -1,0 +1,14 @@
+{
+  "name": "patria-sem-fronteiras",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Landing page + envio de e-mail com guia em PDF da Pátria Sem Fronteiras",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.0"
+  }
+}
